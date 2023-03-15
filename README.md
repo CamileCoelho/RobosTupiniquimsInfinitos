@@ -22,4 +22,4 @@ instruções de forma sequencial: o segundo robô só iniciará suas ações qua
 
 ## Saída
 
-*Para cada robô, a posição final e sua orientação depois de executada as instruções.
+* Para cada robô, a posição final e sua orientação depois de executada as instruções.
